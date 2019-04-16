@@ -1,0 +1,6 @@
+const styles = {
+  backgroundColor: "palevioletred",
+  color: "papayawhip",
+};
+
+<button style={styles} />

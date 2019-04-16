@@ -17,10 +17,13 @@
     "@babel/polyfill": "^7.4.0",
     "@babel/runtime": "^7.4.2",
     "normalize.css": "8.0.1",
+    "polished": "^3.2.0",
     "react": "^16.8.4",
     "react-dom": "npm:@hot-loader/react-dom",
     "spectacle": "^5.4.0",
-    "spectacle-renderer": "^0.0.3"
+    "spectacle-code-slide": "^0.5.2",
+    "spectacle-renderer": "^0.0.3",
+    "styled-components": "^4.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",

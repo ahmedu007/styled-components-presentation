@@ -1,0 +1,8 @@
+<style>
+  .dRUXBm {
+    background-color: palevioletred;
+    color: papayawhip;
+  }
+</style>
+
+<button class="dRUXBm" />
